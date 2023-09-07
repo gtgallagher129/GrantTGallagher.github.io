@@ -1,1 +1,1 @@
-# GrantTGallagher.github.io
+gtgallagher.github.io
